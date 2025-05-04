@@ -30,6 +30,7 @@ No external dependencies were used; the implementation relies solely on Go's sta
 ---
 
 ### Running the Program
+`filePath` in `main.go` is hard-coded to match the path in my personal directory. You can change it to match yours if needed. 
 
 Using the `go` CLI:
 ```bash
@@ -68,3 +69,5 @@ Check code coverage:
 ```bash
 go test -cover
 ```
+
+> node: The VINs in `realtime_test_file.csv` are not valid VINs.
