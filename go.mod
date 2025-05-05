@@ -1,3 +1,3 @@
-module github.com/latcha-sachint/realtime_report_parser
+module github.com/latcha-sachint/rtreportparser
 
 go 1.24.2
